@@ -1,1 +1,1 @@
-#include "vix/ai/core/Tensor.hpp"
+#include <vix/ai/tensor/Tensor.hpp>

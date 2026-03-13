@@ -1,1 +1,1 @@
-#include "vix/ai/core/Device.hpp"
+#include <vix/ai/tensor/Device.hpp>

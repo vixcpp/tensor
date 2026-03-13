@@ -1,1 +1,1 @@
-#include "vix/ai/core/Version.hpp"
+#include <vix/ai/tensor/Version.hpp>
